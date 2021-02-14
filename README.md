@@ -1,5 +1,5 @@
 ## Learning from Temporal Graph Networks
-(This repo is what I worked on for Stanford's 2021 [Treehacks](https://www.treehacks.com/) virtual hackathon. My intentions were to revamp my graph machine learning skills as well as gain practice implementing an interesting and timely AI/ML publication on my own.)
+(This repo is what I worked on for Stanford's 2021 [Treehacks](https://www.treehacks.com/) virtual hackathon. My intentions were to revamp my graph machine learning skills as well as practice implementing an interesting and timely AI/ML publication.)
 
 Interested in how Twitter uses graph machine learning methods to scale content moderation and other trust and safety applications on their platform, I dove in to a [paper](https://arxiv.org/pdf/2006.10637) written by ML engineers at Twitter about how they model temporal graphs. [This blog post](https://blog.twitter.com/engineering/en_us/topics/insights/2021/temporal-graph-networks.html) explains the general idea of the paper -- use a "raw message store" to accumulate past information that is then used to transform node messages into node states and eventually node embeddings for task-oriented prediction.
 
