@@ -1,0 +1,4 @@
+outs:
+- md5: 073f02eded51809167502d1a26895af1
+  size: 41449814
+  path: mooc.csv
